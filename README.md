@@ -10,8 +10,12 @@ Trabajo con **gran cantidad de información y datos complejos**, por lo que mis 
 
 Aquí comparto **scripts, proyectos y tutoriales** aplicados mayoritariamente a estos campos:
 
+![Banner](./assets/banner.png)
+
+
 ![Static Badge](https://img.shields.io/badge/BIM-%237769FF)
 ![Static Badge](https://img.shields.io/badge/IFC-%234FFFDF)
 ![Static Badge](https://img.shields.io/badge/IDS-%2362B5FC)
 ![Static Badge](https://img.shields.io/badge/GIS-%236285FC)
 ![Static Badge](https://img.shields.io/badge/OPEN%20SOURCE-%2362E6FC)
+
