@@ -27,9 +27,9 @@ Aquí comparto **scripts, proyectos y tutoriales** aplicados mayoritariamente a 
 
 En este repositorio encontrarás **material organizado por tecnologías y disciplinas**, para que puedas seguirlo de forma progresiva y práctica:
 
-![Python 80%](https://img.shields.io/badge/PYTHON-80%25-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)  
-![HTML5 10%](https://img.shields.io/badge/HTML5-10%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![JavaScript 5%](https://img.shields.io/badge/JavaScript-5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python 80%](https://img.shields.io/badge/PYTHON-80%25-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![HTML5 10%](https://img.shields.io/badge/HTML5-10%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript 5%](https://img.shields.io/badge/JavaScript-5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS 5%](https://img.shields.io/badge/CSS3-5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
